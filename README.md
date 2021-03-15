@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigonavas&count_private=true&show_icons=true&hide=issues,stars&theme=prussian)](https://github.com/rodrigonavas/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigonavas&hide=html,css&theme=prussian)](https://github.com/rodrigonavas/github-readme-stats)
 <!--
 **rodrigonavas/rodrigonavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
