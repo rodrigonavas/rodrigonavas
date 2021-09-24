@@ -1,5 +1,5 @@
 ### Hello I'm Rodrigo Navas
-I'm a graduate Software Engineer, focused on the **Business Intelligence development**, a **Data Science** enthusiast and a former Java Backend developer.
+I'm a Software Engineer, focused on the **Business Intelligence development**, a **Data Science** enthusiast and a former Java Developer.
 
 <p align="left">
   <a href="https://wakatime.com/@rodrigonavas">
