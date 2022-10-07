@@ -1,5 +1,5 @@
 ### Hello I'm Rodrigo Navas
-I'm a Software Engineer, focused on the **Business Intelligence development**, a **Data Science** enthusiast and a former Java Developer.
+I'm a Data Engineer, with experience on **Business Intelligence development**, **Data Science** and **Data Modeling** and a former Java Developer.
 
 <p align="left">
   <a href="https://wakatime.com/@rodrigonavas">
